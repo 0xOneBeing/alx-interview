@@ -35,4 +35,3 @@ if __name__ == "__main__":
             print("[{}]".format(",".join(map(str, row))))
 
     print_triangle(pascal_triangle(5))
-
